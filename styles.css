@@ -1,5 +1,14 @@
 
-h1{
-    color: blue;
-    font-size: 25px;
+body{
+    background-color: rgb(17, 17, 196);
 }
+h1{
+    color: rgb(222, 236, 16);
+    font-size: 25px;
+    /*make bold*/
+}
+
+p{
+    /*change font type*/
+}
+
