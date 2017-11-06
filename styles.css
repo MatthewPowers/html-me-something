@@ -1,14 +1,21 @@
 
 body{
-    background-color: rgb(17, 17, 196);
+    background-color: rgb(98, 100, 121);
 }
 h1{
-    color: rgb(222, 236, 16);
-    font-size: 25px;
+    color: rgb(7, 102, 211);
+    font-size: 55px;
+    margin: center;
     /*make bold*/
 }
 
 p{
     /*change font type*/
+}
+
+img{
+    border: 2px solid yellow; 
+    height: 225;
+    width: 225;
 }
 
