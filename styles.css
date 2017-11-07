@@ -20,9 +20,16 @@ p{
     /*change font type*/
 }
 
-
+/*
 ul{
     text-align: center;
+}
+*/
+
+.lists{
+    text-align: center;
+    margin-right: 300px;
+    margin-left: 300px; 
 }
 
 
@@ -48,7 +55,12 @@ article{
 
 .story{
     border: 2px dotted rgb(0, 0, 0);
-    background-color: darkolivegreen;
-    margin-right: 125px;
-    margin-left: 125px; 
+    background-color: rgb(180, 238, 80);
+    margin-right: 300px;
+    margin-left: 300px; 
+}
+
+
+.disclamer{
+    font-family: Courier New, Courier, monospace;
 }
