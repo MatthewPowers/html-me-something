@@ -20,11 +20,12 @@ p{
     /*change font type*/
 }
 
-/*
+
 ul{
-    text-align: center;
+    list-style: none;
+    padding-left: 300px;
 }
-*/
+
 
 .lists{
     text-align: center; 
@@ -61,4 +62,5 @@ article{
 
 .disclamer{
     font-family: Courier New, Courier, monospace;
+    font-size: 12px;
 }
