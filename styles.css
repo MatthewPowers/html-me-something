@@ -3,22 +3,28 @@ body{
     background-color: rgb(182, 185, 214);
     text-align: center;
 }
+
+
 h1{
     color: rgb(33, 128, 236);
     font-size: 55px;
 }
 
+
 h3{
     font-size: 35px;
 }
+
 
 p{
     /*change font type*/
 }
 
+
 ul{
     text-align: center;
 }
+
 
 img{
     border: 2px solid yellow; 
@@ -26,11 +32,23 @@ img{
     width: 225;
 }
 
+
+
+footer{
+    font-size: 10px;
+}
+
+/*
 article{
     border: 2px dotted rgb(0, 0, 0);
     background-color: darkolivegreen;
 }
+*/
 
-footer{
-    font-size: 10px;
+
+.story{
+    border: 2px dotted rgb(0, 0, 0);
+    background-color: darkolivegreen;
+    margin-right: 125px;
+    margin-left: 125px; 
 }
