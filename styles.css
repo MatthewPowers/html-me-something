@@ -27,7 +27,7 @@ ul{
 
 
 .lists{
-    text-align: center; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
 }
 
 
@@ -56,10 +56,16 @@ article{
     background-color: rgb(180, 238, 80);
     margin-right: 300px;
     margin-left: 300px; 
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 
 .disclamer{
     font-family: Courier New, Courier, monospace;
     font-size: 12px;
+}
+
+#intro{
+    color: Red;
 }
