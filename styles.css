@@ -1,16 +1,23 @@
 
 body{
     background-color: rgb(98, 100, 121);
+    text-align: center;
 }
 h1{
     color: rgb(7, 102, 211);
     font-size: 55px;
-    margin: center;
-    /*make bold*/
+}
+
+h3{
+    font-size: 35px;
 }
 
 p{
     /*change font type*/
+}
+
+ul{
+    text-align: center;
 }
 
 img{
@@ -19,3 +26,11 @@ img{
     width: 225;
 }
 
+article{
+    border: 2px dotted rgb(0, 0, 0);
+    background-color: darkolivegreen;
+}
+
+footer{
+    font-size: 10px;
+}
